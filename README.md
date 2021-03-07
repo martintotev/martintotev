@@ -1,9 +1,11 @@
-### Hi there 👋
+### Good evening and hello there! 👋
+I am a UX designer and web developer but not yet a full unicorn 🦄.
+
+Currently living in Seoul, South Korea I work at AUTOCRYPT creating connections with partners, looking for creative ways to expand the business and help in the design of new products, for a more secure mobility.
+
 
 <!--
 **martintotev/martintotev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
