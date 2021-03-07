@@ -1,4 +1,4 @@
-### Good evening and hello there! 👋
+### Hello there! 👋
 I am a UX designer and web developer but not yet a full unicorn 🦄.
 
 Currently living in Seoul, South Korea I work at AUTOCRYPT creating connections with partners, looking for creative ways to expand the business and help in the design of new products, for a more secure mobility.
