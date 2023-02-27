@@ -1,5 +1,5 @@
 ### Hello there! 👋
-I am a UX designer and web developer but not yet a full unicorn 🦄.
+I am a business development manager and UX designer (on the side) learning the ins and outs of web development in pursuit of a full unicorn 🦄 title.
 
 Currently living in Seoul, South Korea I work at AUTOCRYPT creating connections with partners, looking for creative ways to expand the business and help in the design of new products, for a more secure mobility.
 
